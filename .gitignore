@@ -1,0 +1,19 @@
+# 데이터 파일
+덕성여대 NOVA 분류 및 100g당 영양성분 (2007-2024)_수정.xlsx
+
+# 데이터 및 임베딩 폴더
+data/
+embeddings/
+
+# 제외할 노트북
+Data Preprocessing.ipynb
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Excel 임시 파일
+~$*.xlsx
+
